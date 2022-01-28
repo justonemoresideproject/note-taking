@@ -1,0 +1,6 @@
+lesson's from 35.3 show that Express will look for routes in the order in which they are written in the script.
+    For Example:
+    /:id will accept the 'search' in /search as the 'id'. This will cause an error of "invalid input syntax for type integer: 'search'"
+
+Nunjucks is a library that is an implementation of the Jinja2 language in Javascript. It allows for templating complete html pages just like in flask
+
